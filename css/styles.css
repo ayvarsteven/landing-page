@@ -1,0 +1,11 @@
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+  nav {
+    background-color: #1f2937;
+    color: #fff;
+  }
